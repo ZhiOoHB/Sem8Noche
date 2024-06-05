@@ -1,0 +1,8 @@
+body{
+    background-color:peachpuff;
+}
+.resaltado {
+    color: black;
+    background-color: yellow;
+    font-style:italic;    
+}
